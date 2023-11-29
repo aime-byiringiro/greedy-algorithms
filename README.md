@@ -9,4 +9,12 @@
     - **Selection** : select an input from **a[]** and remove it 
     - **Feasible** : a predicate function that determines if **x** can be included into the solution vector. 
     - **Union**: combine **x** with partial solution.
+
+# Greedy (int n, a[])
+  - Solution = Empty
+  - for (i = 1; i<=n;i++)
+    - x = Select(a)
+    - if (Feasible(Solution,x))
+      - Solution = Union(Solution,x)
+  - return Solution
  
