@@ -4,7 +4,8 @@ Huffaman is an algorithm that is used to compress data.
 
 # Time complexity: O(nlgn)
 
-![Huffaman-code](https://github.com/aime-byiringiro/greedy-algorithms/assets/85495866/e491c6d4-9b4c-404b-88ef-a149a9bf26a9)
+![Screenshot 2023-12-07 at 11 03 51 PM](https://github.com/aime-byiringiro/greedy-algorithms/assets/85495866/0a922511-f6ec-4917-b534-91a45618cb75)
+
 
 
 
